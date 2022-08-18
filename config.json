@@ -1,0 +1,16 @@
+{
+  "token": "ODkzODEyNjI4MjkwNDM3MTQx.GLDeKh.vlMiSV-po2ny-K1r2fcy4iTw_30DsUzeONoUDA",  
+"mongourl": "mongodb+srv://shravan:Razer143s@razerop.inke4.mongodb.net/",
+"embedColor": "#ff6ab5",
+"prefix": "p",
+   "nodes": [
+  {
+  "host": "node.alex-hosting.ml",
+    "port": 2333,
+    "password": "alexop",
+    "retryDelay": 10000,
+    "secure": false
+
+  }
+]
+} 
